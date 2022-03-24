@@ -3,3 +3,6 @@
 - I made this mobile game to practice my skills with unity and C#.
 ## Demo
 ![Demo](gif/Demo.gif)
+___
+- if you bump into the red obstacle -> game over.
+- you can change color to break through the black and white obstacle.
